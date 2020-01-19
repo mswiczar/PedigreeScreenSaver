@@ -1,0 +1,22 @@
+Copyright (c) <2010> <PEDIGREE®>
+
+Todos los derechos reservados. Powered by United Virtualities 
+
+La redistribución y uso en formato fuente y binario de esta aplicación (este “Software”), con o sin modificación, se permite siempre que el usuario cumplan las siguientes condiciones.
+
+ 
+
+1. Siempre que se redistribuya este Software ya sea el código fuente o en formato binario, se deberá mencionar que los derechos de la misma corresponder a Masterfoods Argentina Ltda. Sucursal Argentina (el “Titular”) y que la Aplicación ha sido desarrollada por United Virtualities  (la “Agencia”) 
+
+2. Ni el nombre del Titular ni en el Nombre de la Agencia (o de cualquiera de sus dependientes o contratados) podrán utilizarse para respaldar o promocionar productos derivados de este Software sin permiso previo por escrito.
+
+ 
+
+ESTE SOFTWARE ES PROPORCIONADO POR EL TITULAR. CUALQUIER   GARANTÍA  EXPRESA, O IMPLÍCITA, INCLUYENDO LAS GARANTÍAS DE COMERCIALIZACIÓN Y APTITUD PARA UN DETERMINADO FIN NO  IMPLICAN EN FORMA ALGUNA LA OBTENCIÓN DE DERECHOS DE TITULARIDAD DEL SOFTWARE. 
+
+LAS PERSONAS QUE HAGAN USO DEL SOFTWARE EN FORMATO BINARIO O DE CUAQUIER OTRA FORMA SERÁN RESPONSABLES POR TODOS LOS DAÑOS DIRECTOS E INDIRECTOS, INCLUYENDO AQUELLOS CAUSADOS POR NEGLIGENCIA QUE PUDIERAN CAUSAR COMO CONSECUENCIA O EN OCASIÓN DEL USO DEL SOFTWARE. 
+
+En ningún caso el Titular, sus accionistas, directores, empresas controlantes, empresas controladas, afiliadas, sucursales o proveedores serán responsables por daños causados por el uso (o la imposibilidad de uso) de este Software, la prestación (o falta de prestación) de servicios de asistencia para la utilización del Software, incluyendo, pero sin limitación, daños por: pérdida de ganancias, pérdida de información, confidencial o no confidencial, interrupción del negocio, lesiones personales, pérdida de privacidad). 
+
+Las licencias podrán ser cambiadas o actualizadas sin previo aviso.
+ 
